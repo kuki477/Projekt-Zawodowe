@@ -1,0 +1,17 @@
+Aplikacja Forum/Blog
+
+HTML/CSS
+    1. Responsywność strony na różnych urządzeniach
+    2. 60/30/10 kolory
+    3. Możliwość zmiany koloru strony pomiędzy białym i czarnym stylem
+
+
+
+
+
+PHP:
+    1. Możliwość dodawania postów
+    2. Możliwość edytowania postów
+    3. Możliwość usuwania postów
+    4. Wyświetlanie postów
+
